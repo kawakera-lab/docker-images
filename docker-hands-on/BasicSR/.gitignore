@@ -1,5 +1,6 @@
 # ignored folders
 datasets/*
+experiments/*
 results/*
 tb_logger/*
 wandb/*
@@ -20,6 +21,7 @@ version.py
 *.jpeg
 *.jpg
 *.gif
+*.pth
 *.zip
 
 # template
@@ -128,4 +130,3 @@ venv.bak/
 
 # mypy
 .mypy_cache/
-.bash_history
