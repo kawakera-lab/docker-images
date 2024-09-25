@@ -44,7 +44,6 @@ results*.txt
 gcp_test*.sh
 
 output/test_results
-assests/*/
 
 # Datasets -------------------------------------------------------------------------------------------------------------
 coco/
@@ -256,3 +255,4 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+.*
