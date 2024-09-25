@@ -9,4 +9,5 @@ tests/
 venv
 node_modules/
 db*
-results/
+docker-hands-on/your_turn/Dockerfile
+docker-hands-on/your_turn/requirements.txt
