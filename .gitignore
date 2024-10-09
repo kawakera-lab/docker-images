@@ -9,5 +9,8 @@ tests/
 venv
 node_modules/
 db*
-docker-hands-on/your_turn/Dockerfile
-docker-hands-on/your_turn/requirements.txt
+docker-hands-on/challenge_1/Dockerfile
+docker-hands-on/challenge_1/requirements.txt
+.cache/
+.bash_history
+.nv/
